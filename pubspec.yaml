@@ -1,0 +1,7 @@
+name: esports_elo_tracker
+description: An Elo rating tracker for competitive players, with a CLI and JSON persistence.
+publish_to: "none"
+version: 1.0.0
+
+environment:
+  sdk: ^3.13.0
